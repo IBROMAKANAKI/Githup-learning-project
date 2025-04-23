@@ -1,8 +1,6 @@
 title: Ibromanaki
 logo: assets/images/Screenshot 2024-08-03 005913.png
 show_downloads: true
-
-remote_theme: pages-themes/minimal@v0.2.0
-
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
